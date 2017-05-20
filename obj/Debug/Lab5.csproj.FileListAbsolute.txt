@@ -1,0 +1,6 @@
+D:\Studia\Algorytmy\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Studia\Algorytmy\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Studia\Algorytmy\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Studia\Algorytmy\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Studia\Algorytmy\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Studia\Algorytmy\Lab5\Lab5\obj\Debug\Lab5.pdb
